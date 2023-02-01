@@ -1,1 +1,1 @@
-# -Meba21-Personal-Blog-Website-Project-2-Udacity
+# Personal-Blog-Website-Project-2-Udacity
